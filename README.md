@@ -2,6 +2,9 @@
 - 👀 I’m interested in Cyber Security, Computer Science etc
 - 🌱 I’m currently learning  Computer Science
 - 📫 How to reach me www.linkedin.com/in/kitaka-joseph-5864b620b
+- Twitch: https://twitch.tv/kaythecyberguy
+- Instagram:https://instagram.com/kaythecyberguy
+- Twitter:https://twitter.com/kaythecyberguy1
 
 
 <!---
