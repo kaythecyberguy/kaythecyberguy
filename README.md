@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kaythecyberguy
-- 👀 I’m interested in Cyber Security, Computer Science etc
+- 👀 I’m interested in Cyber Security, Computer Science
 - 🌱 I’m currently learning  Computer Science
+- 👨‍💻 Skils: Python, linux
 - 📫 How to reach me www.linkedin.com/in/kitaka-joseph-5864b620b
 - Twitch: https://twitch.tv/kaythecyberguy
 - Instagram:https://instagram.com/kaythecyberguy
